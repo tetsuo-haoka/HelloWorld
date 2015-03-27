@@ -1,3 +1,3 @@
 # HelloWorld
 Hello world repository
-a
+This is a hoge project
